@@ -4,5 +4,3 @@ Fork of `react-native-printer` and add implement for auto connect printer with u
 A React Native Library to support USB/BLE/Net printer
 
 Support Android 12 and above.
-
-```
